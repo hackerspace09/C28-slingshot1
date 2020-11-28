@@ -1,2 +1,2 @@
-# C28-slingshot1
-constraint between bird bodie and apoint
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
